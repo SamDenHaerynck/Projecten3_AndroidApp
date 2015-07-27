@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha">#CCFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha">#59000000</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="grey_dark">#424242</color>
+    <color name="grey_subtitle">#757575</color>
+    <color name="red">#CC0000</color>
+    <color name="joetzActionBarRed">#e51c23</color>
+</resources>

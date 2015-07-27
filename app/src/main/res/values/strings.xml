@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Joetz VZW</string>
+    <string name="signup">Joetz VZW - Inschrijven</string>
+    <string name="hello_world">Hello thijs!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open menu</string>
+    <string name="drawer_close">Sluit menu</string>
+
+    <string-array name="options">
+        <item>Startpagina</item>
+        <item>Vakanties</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string name="childTheme">Kindvriendelijk thema</string>
+    <string name="settings">Instellingen</string>
+    <string name="period">Periode?</string>
+    <string name="location">Locatie?</string>
+    <string name="place">Plaats?</string>
+    <string name="more">Lees Meer</string>
+    <string name="extraInfo">Extra informatie:</string>
+    <string name="prices">Prijzen</string>
+    <string name="price_basic">Basisprijs:</string>
+    <string name="starprice1">Eén ouder lid van B.M. (West-Vl.):</string>
+    <string name="starprice2">Beide ouders lid van B.M. (West-Vl.):</string>
+    <string name="practicalInfo">Praktische informatie</string>
+    <string name="deductible">Fiscaal aftrekbaar?</string>
+    <string name="transport">Vervoermethode?</string>
+    <string name="registrate">Inschrijven</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="startsignupinfo">U staat op het punt om uw kind in te schrijven voor dit kamp.\n\nOm uw kind de tijd van zijn leven te bezorgen, dienen wij echter over de juiste informatie te beschikken.\n\nDit zal enkele minuten van uw tijd in beslag nemen.</string>
+    <string name="beginsignup">Let\'s go!</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="questions">
+        <item>Is de deelnemer lid van de socialistische mutualiteiten?</item>
+        <item>Gegevens van de contactpersoon</item>
+        <item>Is de contactpersoon ook de betalende ouder?</item>
+        <item>Gegevens van de deelnemer</item>
+        <item>Persoon te contacteren in geval van nood</item>
+        <item>Extra informatie</item>
+    </string-array>
+
+    <string name="question1_sub1">Noteer hieronder de gegevens van de ouder bij wie de deelnemer ten laste staat.</string>
+    <string name="question1_sub2">Noteer het aansluitingsnummer van de 2de ouder, bij Bond Moyson West-Vlaanderen</string>
+    <string name="question2_sub1">Gegevens van de ouder die de vakantie betaalt:</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="number">Aansluitingsnummer:</string>
+    <string name="numberExample">vb. 309/1234567</string>
+    <string name="code">Code gerechtigde</string>
+    <string name="registernumber">Rijksregisternummer:</string>
+    <string name="next">Volgende</string>
+    <string name="name">Naam:</string>
+    <string name="firstname">Voornaam:</string>
+    <string name="street">Straat:</string>
+    <string name="nr">Nr. :</string>
+    <string name="bus">Bus:</string>
+    <string name="city">Gemeente:</string>
+    <string name="postalcode">Postcode:</string>
+    <string name="mail">E-mail:</string>
+    <string name="phone">Tel. of GSM:</string>
+    <string name="birthdate">Geboortedatum:</string>
+    <string name="birthdate_example">Vb. dd-mm-jjjj</string>
+    <string name="addPerson">Voeg een 2de contactpersoon toe</string>
+    <string name="extraInfoSignUp">Geef hier informatie die u belangrijk vindt voor de reservering en die u niet kan meegeven in het infulformulier.</string>
+    <string name="title_activity_camp_gallery">CampGallery</string>
+    <string name="addParticipant">Klik hier als je meerdere deelnemers wil inschrijven (Max. 5 per inschrijving)</string>
+    <string name="requirements">Verblijven de deelnemers op hetzelfde adres als de ouder waarbij ze ten laste staan?</string>
+    <string name="natNr">Rijksregisternummer (Vb. 84062214356)</string>
+    <string name="age">Leeftijd:</string>
+    <string name="forAge">Leeftijd?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="natnr_example">Vb. 84062214356</string>
+
+    <!-- Contact information -->
+    <string name="contAdres">Adres</string>
+    <string name="contTelefoon">Telefoon</string>
+    <string name="contFax">Fax</string>
+    <string name="contEmail">Email</string>
+    <string name="contWebsite">Website</string>
+
+</resources>
